@@ -34,6 +34,10 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
 **Tenure:** Número de anos que o cliente está no banco<br>
 **Balance:** Saldo bancário do cliente<br>
 **NumOfProducts:** Número de produtos bancários que o cliente está utilizando<br>
+**HasCrCard:** Flag para saber se o cliente possui um cartão de crédito com o banco ou não<br>
+**IsActiveMember:** Flag para saber se o cliente é um membro ativo do banco ou não<br>
+**EstimatedSalary:** Salário estimado do cliente em dólares<br>
+**Exited:** Flag, 1 se o cliente encerrou a conta no banco e 0 se o cliente permaneceu<br>
 
 ## 💻 Tecnologias
 
