@@ -1,8 +1,8 @@
-# 🏸 Análise de dados: Churn de clientes de banco 😒
+# 🔎 Análise de dados: Churn de clientes de banco 😒
 
 Projeto de machine learning para análise de dados e classificação de clientes que potencialmente poderão encerrar suas contas em um banco, os dados estão disponíveis na plataforma [Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling).
 
-O problema a ser solucionado consiste em utilizar os dados bancários dos clientes que efetuaram ou não o encerramento de suas contas para criar um modelo preditivo que irá identificar possíveis clientes que poderão ou não deixar a instituição bancária, podendo assim determinar a taxa de churn e com base nos perfis tomar ações para retenção de clientes.
+O problema a ser solucionado consiste em utilizar os dados bancários dos clientes que efetuaram ou não o encerramento de suas contas para criar um modelo preditivo que irá identificar possíveis clientes que poderão ou não deixar a instituição bancária, podendo assim determinar a taxa de churn (rotatividade/perda de clientes) e com base nos perfis mapeados tomar ações para retenção dos mesmos, evitando impactos como, por exemplo, aumento de custos, queda de lucro, reputação da marca entre outros fatores sensíveis a experiência do cliente com o produto da empresa.
 
 ## 📃 Demanda da análise
 
@@ -21,6 +21,19 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
    3. Métricas do modelo
    4. Previsões com novos dados
 5. Conclusão
+
+## 📓 Dicionário dos dados
+
+**RowNumber:** Números de linha de 1 a 10.000<br>
+**CustomerId:** Ids exclusivos para identificação do cliente do banco<br>
+**Surname:** Sobrenome do cliente<br>
+**CreditScore:** Score do cliente<br>
+**Geography:** País onde o cliente reside<br>
+**Gender:** Gênero, masculino ou feminino<br>
+**Age:** Idade do cliente<br>
+**Tenure:** Número de anos que o cliente está no banco<br>
+**Balance:** Saldo bancário do cliente<br>
+**NumOfProducts:** Número de produtos bancários que o cliente está utilizando<br>
 
 ## 💻 Tecnologias
 
