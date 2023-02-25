@@ -22,7 +22,7 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
    4. Previsões com novos dados
 5. Conclusão
 
-## 📓 Dicionário dos dados
+## 📓 Dicionário de dados
 
 **RowNumber:** Números de linha de 1 a 10.000<br>
 **CustomerId:** Ids exclusivos para identificação do cliente do banco<br>
