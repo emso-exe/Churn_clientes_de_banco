@@ -13,14 +13,15 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
 ## 📋 Tópicos da análise
 
 1. Análise das medidas estatísticas dos dados
-2. Distribuição dos dados entre as variáveis independentes (features) e dependente (target)
-3. Correlação entre as variáveis
-4. Criação do modelo de classificação
+2. Distribuição dos valores da váriavel dependente (target)
+3. Distribuição dos dados entre as variáveis independentes (features) e dependente (target)
+4. Correlação entre as variáveis
+5. Criação do modelo de classificação
    1. Separação dos dados de treino e teste
    2. Treinamento e predições do modelo
    3. Métricas do modelo
    4. Previsões com novos dados
-5. Conclusão
+6. Conclusão
 
 ## 📓 Dicionário de dados
 
