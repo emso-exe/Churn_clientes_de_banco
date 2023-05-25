@@ -16,7 +16,7 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
 2. Distribuição dos valores da váriavel dependente (target)
 3. Distribuição dos dados entre as variáveis independentes (features) e dependente (target)
 4. Correlação entre as variáveis
-5. Criação do modelo de classificação
+5. Criação do modelo preditivo
    1. Separação dos dados de treino e teste
    2. Treinamento e predições do modelo
    3. Métricas do modelo
