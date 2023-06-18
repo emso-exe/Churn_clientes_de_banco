@@ -17,10 +17,11 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
 3. Distribuição dos dados entre as variáveis independentes (features) e dependente (target)
 4. Correlação entre as variáveis
 5. Criação do modelo preditivo
-   1. Separação dos dados de treino e teste
-   2. Treinamento e predições do modelo
-   3. Métricas do modelo
-   4. Previsões com novos dados
+   1. Preparação dos dados
+   2. Separação dos dados e seleção do modelo
+   3. Treinamento e predições do modelo
+   4. Métricas do modelo
+   5. Simulação de entrada de novos dados
 6. Conclusão
 
 ## 📓 Dicionário de dados
