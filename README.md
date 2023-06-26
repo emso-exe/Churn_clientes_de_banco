@@ -18,10 +18,10 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
 4. Correlação entre as variáveis
 5. Criação do modelo preditivo
    1. Preparação dos dados
-   2. Separação dos dados e seleção do modelo
-   3. Treinamento e predições do modelo
-   4. Métricas do modelo
-   5. Simulação de entrada de novos dados
+   2. Separação e padronização dos dados
+   3. Otimização, treinamento, teste e métricas do modelo de Regressão Logística
+   4. Otimização, treinamento, teste e métricas do modelo de Random Forest
+   5. Comparativo gráfico - Curva ROC AUC
 6. Conclusão
 
 ## 📓 Dicionário de dados
