@@ -16,13 +16,16 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
 2. Distribuição dos valores da váriavel dependente (target)
 3. Distribuição dos dados entre as variáveis independentes (features) e dependente (target)
 4. Correlação entre as variáveis
-5. Criação do modelo preditivo
-   1. Preparação dos dados
-   2. Separação e padronização dos dados
-   3. Otimização, treinamento, teste e métricas do modelo de Regressão Logística
-   4. Otimização, treinamento, teste e métricas do modelo de Random Forest
-   5. Comparativo gráfico - Curva ROC AUC
-6. Conclusão
+5. Preparação dos dados para aplicação no modelo preditivo
+6. Separação (treino e teste), padronização e balanceamento dos dados
+7. Modelo preditivo: Regressão Logística
+   1. Busca pelos melhores parâmetros e treinamento do modelo
+   2. Métricas de avaliação do modelo
+8. Modelo preditivo: Random Forest
+   1. Busca pelos melhores parâmetros e treinamento do modelo
+   2. Métricas de avaliação do modelo
+9. Comparativo gráfico - Curva ROC AUC
+10.  Conclusão
 
 ## 📓 Dicionário de dados
 
