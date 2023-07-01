@@ -24,8 +24,11 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
 8. Modelo preditivo: Random Forest
    1. Busca pelos melhores parâmetros e treinamento do modelo
    2. Métricas de avaliação do modelo
-9. Comparativo gráfico - Curva ROC AUC
-10.  Conclusão
+9. Modelo preditivo: SVM (Support Vector Machine)
+   1. Busca pelos melhores parâmetros e treinamento do modelo
+   2. Métricas de avaliação do modelo
+10.  Comparativo gráfico - Curva ROC AUC
+11.  Conclusão
 
 ## 📓 Dicionário de dados
 
