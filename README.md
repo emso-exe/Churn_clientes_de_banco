@@ -31,11 +31,11 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
    2. Treinamento e predições do modelo
    3. Métricas de avaliação do modelo
 10. Modelo preditivo: SVM (Support Vector Machine)
-   1. Busca pelos melhores parâmetros e treinamento do modelo
-   2. Treinamento e predições do modelo
-   3. Métricas de avaliação do modelo
-11.  Comparativo gráfico - Curva ROC AUC
-12.  Conclusão
+    1. Busca pelos melhores parâmetros e treinamento do modelo
+    2. Treinamento e predições do modelo
+    3. Métricas de avaliação do modelo
+11. Comparativo gráfico - Curva ROC AUC
+12. Conclusão
 
 ## 📓 Dicionário de dados
 
