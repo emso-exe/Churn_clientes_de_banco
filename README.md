@@ -34,7 +34,7 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
     1. Busca pelos melhores parâmetros e treinamento do modelo
     2. Treinamento e predições do modelo
     3. Métricas de avaliação do modelo
-11. Comparativo gráfico - Curva ROC AUC
+11. Comparativo gráfico e de métricas
 12. Conclusão
 
 ## 📓 Dicionário de dados
