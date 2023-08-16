@@ -7,8 +7,7 @@ O problema a ser solucionado consiste em utilizar os dados bancários dos client
 ## 📃 Demanda da análise
 
 - Analisar a correlação dos dados dos clientes.
-- Gerar um modelo preditivo de churn por parte de um cliente.
-- Simular novas entradas de dados e previsões.
+- Gerar um modelo preditivo de churn de clientes.
   
 ## 📋 Tópicos da análise
 
