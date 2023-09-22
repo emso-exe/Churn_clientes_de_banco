@@ -1,4 +1,4 @@
-# 🔎 Análise de dados: Churn de clientes de banco 😒
+# 🔎 Análise e classificação de Churn de clientes de banco 😒
 
 Projeto de machine learning para análise de dados e classificação de clientes que potencialmente poderão encerrar suas contas em um banco, os dados estão disponíveis na plataforma [Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling).
 
