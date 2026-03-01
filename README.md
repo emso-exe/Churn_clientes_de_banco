@@ -1,4 +1,4 @@
-# 🔎 Análise e classificação de Churn de clientes de banco 😒
+# 🔎 Análise e classificação de Churn de clientes bancários 🙎‍♂️
 
 Projeto de Análise Exploratória de Dados (EDA) e Machine Learning para identificação de clientes com potencial de encerrar suas contas em uma instituição bancária.
 O conjunto de dados está disponível publicamente na plataforma [Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling).
