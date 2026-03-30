@@ -1,6 +1,9 @@
 .ipynb_checkpoints
 _temp
+venv
+env
 *.pdf
 *.txt
 *.html
 !requirements.txt
+!Apresentação*.*
