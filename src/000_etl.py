@@ -287,7 +287,7 @@ SELECT
       CASE 
             WHEN Tenure <= 3 THEN 'New customer'
             WHEN Tenure BETWEEN 4 AND 7 THEN 'Mid tenure'
-            ELSE 'long_term'
+            ELSE 'Long term'
       END AS tenure_bucket,
       CASE 
             WHEN EstimatedSalary > 0 
@@ -332,7 +332,7 @@ SELECT
       CASE 
             WHEN Tenure <= 3 THEN 'New customer'
             WHEN Tenure BETWEEN 4 AND 7 THEN 'Mid tenure'
-            ELSE 'long_term'
+            ELSE 'Long term'
       END AS tenure_bucket,
       CASE 
             WHEN EstimatedSalary > 0 
