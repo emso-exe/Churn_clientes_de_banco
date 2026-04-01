@@ -345,7 +345,7 @@ SELECT
       END AS is_senior_new_customer,
       AVG(EstimatedSalary) OVER(PARTITION BY Geography) AS avg_salary_by_geography,
       COUNT(*) OVER(PARTITION BY Geography) AS customer_count_by_geography,
-      CASE WHEN balance = 0 THEN 1 ELSE 0 END AS is_zero_balance,  
+      CASE WHEN Balance = 0 THEN 1 ELSE 0 END AS is_zero_balance,  
       CASE WHEN NumOfProducts > 1 
           THEN 1 ELSE 0 END AS is_multi_product_customer,
       CASE WHEN IsActiveMember == 1 AND HasCrCard == 1 
